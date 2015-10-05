@@ -1,0 +1,6 @@
+{
+	"name": "nodejs-http-restreamer",
+	"version": "0.0.1",
+	"description": "Restreamer for TS streams over HTTP",
+	"author": "Vencislav Atanasov <user890104@users.noreply.github.com>"
+}
